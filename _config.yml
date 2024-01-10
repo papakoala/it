@@ -13,19 +13,18 @@ app_description: "Gli anni dell'infanzia sono una finestra di opportunità eccez
 
 # Elenco delle funzionalità               Modifica, aggiungi o rimuovi le funzionalità da presentare.
 features:
-  
- - title: Sblocca il potere della stimolazione precoce
- description: Immergi il tuo bambino in un mondo di esperienze stimolanti che promuovono lo sviluppo del cervello e risvegliano i sensi. Le attività accuratamente curate di PapaKoala, guidate da ricerche di sviluppo di esperti, introducono il tuo piccolo in una sinfonia di immagini, suoni e tatto, stimolando i loro percorsi neurali e ponendo le basi per il successo futuro.
- fontawesome_icon_name: bambino
-  
+  - title: "Sblocca il potere della stimolazione precoce"
+    description: "Immergi il tuo bambino in un mondo di esperienze stimolanti che promuovono lo sviluppo del cervello e risvegliano i sensi. Le attività accuratamente curate di PapaKoala, guidate da ricerche di sviluppo di esperti, introducono il tuo piccolo in una sinfonia di immagini, suoni e tatto, stimolando i loro percorsi neurali e ponendo le basi per il successo futuro."
+    fontawesome_icon_name: bambino
 
- - title: Sperimenta la gioia dell'apprendimento interattivo
- description: Dì addio agli esercizi monotoni ed abbraccia la natura divertente e coinvolgente delle attività interattive di PapaKoala. I nostri tutorial basati su video forniscono una guida chiara e rendono l'apprendimento un'esperienza piacevole per genitori e bambini.
- fontawesome_icon_name: cervello
+  - title: "Sperimenta la gioia dell'apprendimento interattivo"
+    description: "Dì addio agli esercizi monotoni ed abbraccia la natura divertente e coinvolgente delle attività interattive di PapaKoala. I nostri tutorial basati su video forniscono una guida chiara e rendono l'apprendimento un'esperienza piacevole per genitori e bambini."
+    fontawesome_icon_name: cervello
 
- - title: Nutrire un legame di amore e fiducia
- description: La stimolazione precoce va oltre lo sviluppo cognitivo; si tratta di creare un legame sicuro e amorevole tra te e il tuo bambino. Le attività di PapaKoala sottolineano il tatto, la forma più fondamentale di coinvolgimento infantile, favorendo la fiducia, la sicurezza e una profonda connessione emotiva.
- fontawesome_icon_name: cuore
+  - title: "Nutrire un legame di amore e fiducia"
+    description: "La stimolazione precoce va oltre lo sviluppo cognitivo; si tratta di creare un legame sicuro e amorevole tra te e il tuo bambino. Le attività di PapaKoala sottolineano il tatto, la forma più fondamentale di coinvolgimento infantile, favorendo la fiducia, la sicurezza e una profonda connessione emotiva."
+    fontawesome_icon_name: cuore
+
 
 
 
